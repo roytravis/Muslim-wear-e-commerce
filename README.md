@@ -1,3 +1,7 @@
+## UI / UX Mockup
+
+![UI Mockup](ui_mockup.png)
+
 BajuPedia is a multi-vendor e-commerce platform built from the ground up, designed to connect fashion sellers with buyers across Indonesia. The system provides a dedicated dashboard for sellers to manage their own digital storefront, while offering a seamless and visually appealing shopping experience for customers.
 
 Key Features:
